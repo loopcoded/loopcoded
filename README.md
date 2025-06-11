@@ -6,11 +6,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" alt="Girl Coding"/>
 </div>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
-</div>
+<br>
 
 ---
 
