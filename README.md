@@ -4,7 +4,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" alt="Girl Coding"/>
+  <img src="https://raw.githubusercontent.com/loopcoded/loopcoded/main/tech-animation.svg" width="800" alt="Crazy Tech Animation"/>
 </div>
 <br>
 
