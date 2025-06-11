@@ -1,47 +1,56 @@
-# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sejal+Sinha+%F0%9F%91%8B;Full-Stack%20Developer%20%7C%20Software%20Engineer
-;Problem+Solver+%7C+Tech+Innovator;Building+Human-Centered+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)</div>
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sejal+Sinha+%F0%9F%91%8B;Full-Stack%20Developer%20%7C%20Software%20Engineer;Problem+Solver+%7C+Tech+Innovator;Building+Human-Centered+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)</div>
 
 <div align="center">
-  
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.github.com/loopcoded)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 </div>
 
 ---
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## 👩‍💻 **About Me**
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="left" width="60%">
 
-🎓 **Final-year Information Science Student**  
-📍 **BMSCE, Bangalore**
+Hey there! I'm **Sejal** — a final-year Information Science student who finds joy at the intersection of code, curiosity, and creation.
 
-🛠️ **Full-Stack Developer | AI/ML Engineer**  
-🚀 **Problem Solver | Tech Innovator**  
-🔬 **R&D Intern @ Samsung PRISM**
+My journey into tech didn't begin with a tutorial — it began with questions. *"Why does this work?"* quickly turned into *"How can I build it better?"* That hunger has led me to build systems that communicate, adapt, and serve — from secure socket-based chat apps with RSA encryption to multilingual AI models that detect emotion in real time.
 
-💡 **Passionate About:**
-- 🛠️ **Building real-world, human-centered tech with AI**
-- 🌍 **Using software to create meaningful change**
-- 🧩 **Learning deeply and solving complex problems**
-- 💬 **Communicating knowledge in simple, effective ways**
+Whether I'm simplifying academic life through **ClassBuddy** or researching conversational AI with **Samsung PRISM**, I thrive at the edge of innovation and impact — where ideas meet implementation.
+
+But I'm not just about code. I've captained chess teams, mentored juniors, taught underprivileged kids, and competed in 72-hour hackathons. I believe great software isn't just functional — it's **empathetic**, **inclusive**, and **intentional**.
+
+**🎓 Final-year Information Science Student @ BMSCE, Bangalore**  
+**🔬 R&D Intern @ Samsung PRISM**  
+**🛠️ Full-Stack Developer | AI/ML Engineer**
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="40%">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280" height="200" alt="Coding Girl"/>
+
+**💡 What drives me:**
+- Building real-world, human-centered tech solutions
+- Making complex problems simple for everyone
+- Creating meaningful change through software
+- Continuous learning and innovation
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sejal-sinha-213812279/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kyosejal11@gmail.com) 
+[![GitHub](https://img.shields.io/badge/-loopcoded-000?style=flat-square&logo=github)](https://github.com/loopcoded) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel)](https://sejalsinha-portfolio.vercel.app/)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -207,36 +216,7 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Connect & Build Something Amazing**
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-sinha-213812279/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyosejal11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=todoist&logoColor=white)](https://sejalsinha-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loopcoded)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<div align="center">
-
-### 💭 **Philosophy That Drives Me**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%22Code+is+not+just+what+I+do.%22;%22It's+how+I+think%2C+solve%2C+and+create.%22;%22Building+human-centered+solutions+with+AI.%22;%22Making+complex+problems+simple+for+everyone.%22" alt="Philosophy" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 **Current Focus**
+## 🎯 **Current Focus**
 
 </div>
 
@@ -254,7 +234,7 @@ const sejal = {
 
 <div align="center">
 
-### 🌟 **What Sets Me Apart**
+## 🌟 **What Sets Me Apart**
 
 </div>
 
@@ -280,6 +260,16 @@ I combine cutting-edge AI with practical engineering to create solutions that ac
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+### 💭 **Philosophy That Drives Me**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%22Code+is+not+just+what+I+do.%22;%22It's+how+I+think%2C+solve%2C+and+create.%22;%22Building+human-centered+solutions+with+AI.%22;%22Making+complex+problems+simple+for+everyone.%22" alt="Philosophy" />
+
+</div>
 
 <div align="center">
 
