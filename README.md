@@ -4,13 +4,37 @@
   </a>
 </div>
 
+<!-- Choose one of these animated contribution displays -->
+
+<!-- Option 1: Classic Snake (your current choice) -->
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 </div>
 
+<!-- Option 2: 3D Contributions (more modern) -->
+<!-- 
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
+-->
+
+<!-- Option 3: Matrix-style code rain -->
+<!--
+<div align="center">
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100%" height="150"/>
+</div>
+-->
+
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Enhanced divider with animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- Additional animated elements -->
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="200">
+</div>
 
 ---
 
@@ -184,24 +208,41 @@
 
 </div>
 
+<!-- Animated stats wrapper -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&reversal=false&textBg=false"/>
+</div>
+
 <div align="center">
   
-[![Sejal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loopcoded&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/loopcoded)
+[![Sejal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loopcoded&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true)](https://github.com/loopcoded)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loopcoded&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/loopcoded)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=loopcoded&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loopcoded&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/loopcoded)
 
 </div>
 
+<!-- Enhanced streak stats with better animation -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=loopcoded&custom_title=Sejal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area_color=FFFFFF&title_color=FFFFFF&area=true)](https://github.com/loopcoded)
+[![GitHub Streak](https://streak-stats.demolab.com?user=loopcoded&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&currStreakNum=00D9FF&sideLabels=C9D1D9)](https://git.io/streak-stats)
 
+</div>
+
+<!-- Interactive contribution graph -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=loopcoded&custom_title=Sejal's%20Contribution%20Journey&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true&theme=react-dark)](https://github.com/loopcoded)
+
+</div>
+
+<!-- Animated metrics -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loopcoded&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+<!-- Additional animated divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer&reversal=true&textBg=false"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -210,7 +251,18 @@
 
 <div align="center">
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Connect & Build Something Amazing**
 
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-sinha-213812279/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyosejal11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=todoist&logoColor=white)](https://sejalsinha-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loopcoded)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -220,7 +272,15 @@
 
 ### 💭 **Philosophy That Drives Me**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%22Code+is+not+just+what+I+do.%22;%22It's+how+I+think%2C+solve%2C+and+create.%22;%22Building+human-centered+solutions+with+AI.%22;%22Making+complex+problems+simple+for+everyone.%22" alt="Philosophy" />
+<!-- Enhanced typing animation with multiple lines -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=%22Code+is+not+just+what+I+do%E2%80%94%22;%22It's+how+I+solve%2C+create%2C+and+innovate.%22;%22Building+bridges+between+AI+and+humanity.%22;%22Making+the+impossible+seem+simple.%22;%22One+line+of+code+at+a+time.%22" alt="Philosophy" />
+</div>
+
+<!-- Additional animated elements -->
+<div align="center">
+  <img width="400" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" alt="coding gif">
+</div>
 
 </div>
 
