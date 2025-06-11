@@ -1,4 +1,5 @@
-# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sejal+Sinha+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI%2FML+Engineer;Problem+Solver+%7C+Tech+Innovator;Building+Human-Centered+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)</div>
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sejal+Sinha+%F0%9F%91%8B;Full-Stack%20Developer%20%7C%20Software%20Engineer
+;Problem+Solver+%7C+Tech+Innovator;Building+Human-Centered+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)</div>
 
 <div align="center">
   
