@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/loopcoded/loopcoded/main/tech-animation.svg" width="800" alt="Crazy Tech Animation"/>
 </div>
 <br>
-
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
 ---
 
 <div align="center">
