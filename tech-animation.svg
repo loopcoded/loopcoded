@@ -1,0 +1,204 @@
+<svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#21262d;stop-opacity:1" />
+    </linearGradient>
+    
+    <radialGradient id="orbGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#00d9ff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0099cc;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#006699;stop-opacity:0.6" />
+    </radialGradient>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="bigGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="300" fill="url(#bgGradient)" rx="15"/>
+  <rect width="800" height="300" fill="none" stroke="#00d9ff" stroke-width="2" rx="15"/>
+  
+  <!-- Matrix Rain -->
+  <g opacity="0.6">
+    <text x="50" y="0" fill="#00d9ff" font-family="monospace" font-size="12">
+      01001001
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,320" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="150" y="0" fill="#00d9ff" font-family="monospace" font-size="12">
+      11010110
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,320" dur="4s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite" begin="0.5s"/>
+    </text>
+    <text x="250" y="0" fill="#00d9ff" font-family="monospace" font-size="12">
+      10110011
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,320" dur="3.5s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.5s" repeatCount="indefinite" begin="1s"/>
+    </text>
+    <text x="350" y="0" fill="#00d9ff" font-family="monospace" font-size="12">
+      01101010
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,320" dur="2.8s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.8s" repeatCount="indefinite" begin="1.5s"/>
+    </text>
+    <text x="450" y="0" fill="#00d9ff" font-family="monospace" font-size="12">
+      11100101
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,320" dur="3.2s" repeatCount="indefinite" begin="2s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.2s" repeatCount="indefinite" begin="2s"/>
+    </text>
+    <text x="550" y="0" fill="#00d9ff" font-family="monospace" font-size="12">
+      00111010
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,320" dur="2.5s" repeatCount="indefinite" begin="2.5s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" repeatCount="indefinite" begin="2.5s"/>
+    </text>
+    <text x="650" y="0" fill="#00d9ff" font-family="monospace" font-size="12">
+      10011101
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,320" dur="3.8s" repeatCount="indefinite" begin="3s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.8s" repeatCount="indefinite" begin="3s"/>
+    </text>
+    <text x="750" y="0" fill="#00d9ff" font-family="monospace" font-size="12">
+      01010011
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,320" dur="2.2s" repeatCount="indefinite" begin="3.5s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.2s" repeatCount="indefinite" begin="3.5s"/>
+    </text>
+  </g>
+  
+  <!-- Circuit Lines -->
+  <g opacity="0.7">
+    <!-- Horizontal lines -->
+    <line x1="0" y1="80" x2="200" y2="80" stroke="#00d9ff" stroke-width="2">
+      <animate attributeName="stroke-dasharray" values="0,200; 200,0; 0,200" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="600" y1="220" x2="800" y2="220" stroke="#00d9ff" stroke-width="2">
+      <animate attributeName="stroke-dasharray" values="0,200; 200,0; 0,200" dur="3s" repeatCount="indefinite" begin="1s"/>
+    </line>
+    <!-- Vertical lines -->
+    <line x1="120" y1="0" x2="120" y2="150" stroke="#00d9ff" stroke-width="2">
+      <animate attributeName="stroke-dasharray" values="0,150; 150,0; 0,150" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
+    </line>
+    <line x1="680" y1="150" x2="680" y2="300" stroke="#00d9ff" stroke-width="2">
+      <animate attributeName="stroke-dasharray" values="0,150; 150,0; 0,150" dur="2.5s" repeatCount="indefinite" begin="1.5s"/>
+    </line>
+  </g>
+  
+  <!-- Tech Icons with floating animation -->
+  <g filter="url(#glow)">
+    <!-- React -->
+    <text x="100" y="60" fill="#61dafb" font-size="30" font-family="Arial">⚛️
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-15; 0,0" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0; 360" dur="8s" repeatCount="indefinite" additive="sum"/>
+    </text>
+    
+    <!-- Python -->
+    <text x="650" y="80" fill="#306998" font-size="30" font-family="Arial">🐍
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="5s" repeatCount="indefinite" begin="1s"/>
+    </text>
+    
+    <!-- AI/Robot -->
+    <text x="200" y="250" fill="#ff6b6b" font-size="30" font-family="Arial">🤖
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-12; 0,0" dur="3.5s" repeatCount="indefinite" begin="2s"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Lightning -->
+    <text x="600" y="180" fill="#f7df1e" font-size="30" font-family="Arial">⚡
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-18; 0,0" dur="2.8s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="fill" values="#f7df1e;#00d9ff;#f7df1e" dur="1s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Fire -->
+    <text x="150" y="180" fill="#ff4500" font-size="30" font-family="Arial">🔥
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="opacity" values="0.8;1;0.6;1" dur="1.5s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Gear -->
+    <text x="550" y="120" fill="#4ecdc4" font-size="30" font-family="Arial">⚙️
+      <animateTransform attributeName="transform" type="rotate" values="0; 360" dur="6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  
+  <!-- Central Orb -->
+  <circle cx="400" cy="150" r="40" fill="url(#orbGradient)" filter="url(#bigGlow)">
+    <animate attributeName="r" values="35;45;35" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Orbiting elements around central orb -->
+  <g>
+    <circle cx="460" cy="150" r="6" fill="#00d9ff">
+      <animateTransform attributeName="transform" type="rotate" values="0 400 150; 360 400 150" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="340" cy="150" r="6" fill="#00d9ff">
+      <animateTransform attributeName="transform" type="rotate" values="90 400 150; 450 400 150" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="90" r="6" fill="#00d9ff">
+      <animateTransform attributeName="transform" type="rotate" values="180 400 150; 540 400 150" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="210" r="6" fill="#00d9ff">
+      <animateTransform attributeName="transform" type="rotate" values="270 400 150; 630 400 150" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Glitch Text -->
+  <text x="400" y="40" fill="#00d9ff" font-size="18" font-weight="bold" text-anchor="middle" font-family="monospace" filter="url(#glow)">
+    ◉ TECH INNOVATOR ◉
+    <animate attributeName="opacity" values="1;0.5;1;0.7;1" dur="0.3s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="skewX" values="0;2;-2;0" dur="0.5s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Particles -->
+  <g opacity="0.8">
+    <circle cx="50" cy="280" r="3" fill="#00d9ff">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 700,-200" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="290" r="2" fill="#00d9ff">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 400,-250" dur="8s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    <circle cx="600" cy="280" r="3" fill="#00d9ff">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -400,-180" dur="7s" repeatCount="indefinite" begin="2s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="7s" repeatCount="indefinite" begin="2s"/>
+    </circle>
+    <circle cx="750" cy="270" r="2" fill="#00d9ff">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -600,-220" dur="5s" repeatCount="indefinite" begin="3s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite" begin="3s"/>
+    </circle>
+  </g>
+  
+  <!-- Data Flow Lines -->
+  <g opacity="0.5">
+    <polyline points="100,100 200,120 300,100 400,110 500,95 600,105 700,100" 
+              fill="none" stroke="#00d9ff" stroke-width="2">
+      <animate attributeName="stroke-dasharray" values="0,700; 700,0; 0,700" dur="4s" repeatCount="indefinite"/>
+    </polyline>
+    <polyline points="100,200 250,220 350,200 450,210 550,195 650,205 750,200" 
+              fill="none" stroke="#00d9ff" stroke-width="2">
+      <animate attributeName="stroke-dasharray" values="0,700; 700,0; 0,700" dur="5s" repeatCount="indefinite" begin="1s"/>
+    </polyline>
+  </g>
+  
+  <!-- Scanning Line -->
+  <line x1="0" y1="150" x2="800" y2="150" stroke="#00d9ff" stroke-width="1" opacity="0.3">
+    <animate attributeName="y1" values="0;300;0" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="0;300;0" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="3s" repeatCount="indefinite"/>
+  </line>
+  
+</svg>
