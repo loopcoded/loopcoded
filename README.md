@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=const+developer+%3D+%7B;++name%3A+%22Sejal+Sinha%22%2C+role%3A+%22Full-Stack+%26+Software+Engineer%22;%7D%3B+%2F%2F+Building+the+future+with+code+%F0%9F%9A%80" alt="Code Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com? alt="Code Animation" />
 </div>
 
 <div align="center">
