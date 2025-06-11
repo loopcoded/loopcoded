@@ -5,7 +5,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loopcoded&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=const+developer+%3D+%7B;++name%3A+%22Sejal+Sinha%22%2C+role%3A+%22Full-Stack+%26+Software+Engineer%22;%7D%3B+%2F%2F+Building+the+future+with+code+%F0%9F%9A%80" alt="Code Animation" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
 </div>
 
 <br>
@@ -27,7 +31,7 @@
 🎓 **Final-year Information Science Student**  
 📍 **BMSCE, Bangalore**
 
-🛠 **Full-Stack Developer | AI/ML Engineer**  
+🛠 **Full-Stack Developer | Software Engineer**  
 🚀 **Problem Solver | Tech Innovator**  
 🔬 **R&D Intern @ Samsung PRISM**
 
@@ -226,7 +230,7 @@
 
 ```javascript
 const sejal = {
-    currentRole: "Full-Stack Developer & AI/ML Engineer",
+    currentRole: "Full-Stack Developer & Software Engineer",
     currentlyLearning: ["Advanced AI/ML", "System Design", "Human-Centered Design"],
     lookingFor: "Software Engineering opportunities at innovative companies",
     specialties: ["Healthcare AI", "Real-time Systems", "Human-Computer Interaction"],
