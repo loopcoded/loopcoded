@@ -1,5 +1,4 @@
-# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sejal+Sinha+%F0%9F%91%8B;Software+Engineer+%7C+R%26D+Intern+%40+Samsung;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)</div>
-
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sejal+Sinha+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer+%7C;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)</div>
 <div align="center">
   
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.github.com/loopcoded)
@@ -19,17 +18,19 @@
 <td align="center" width="50%">
 
 🎓 **Final-year Information Science Student**  
-📍 **BMSCE, Bangalore**
+📍 **BMSCE, Bangalore** 
 
 🛠️ **Software Engineer | Full-Stack Developer**  
+🚀 **Problem Solver | Tech Innovator**
 🔬 **R&D Intern @ Samsung PRISM**
 
 💡 **Passionate About:**
-- 🌐 Advanced Networking & Security
-- 🤖 AI/ML & Deep Learning  
-- 🏗️ System Design & Architecture
-- 🚀 Real-World Tech Innovation
-
+- 🛠️ **Building real-world, human-centered tech with AI**
+- 🌍 **Using software to create meaningful change**
+- 🧩 **Learning deeply and solving complex problems**
+- 💬 **Communicating knowledge in simple, effective ways**
+- 🏗️ **System Design & Architecture**
+- 🚀 **Real-World Tech Innovation**
 </td>
 <td align="center" width="50%">
 
@@ -121,9 +122,37 @@
 
 </td>
 </tr>
-</table>
+
+<tr>
+<td colspan="2" align="center">
+### 🩺 [**DiabML**](https://github.com/loopcoded/DiabML--Diabetes-Prediction-Web-App)
+**AI-Driven Diabetes Prediction System**
+
+- 🤖 **Ensemble ML models** (Logistic Regression + SVM)
+- 📊 **Stacking ensemble** for higher accuracy
+- 🔍 **Comprehensive patient data analysis**
+- 💊 **Early diabetes risk detection**
+
+**Tech Stack:** `Python` `Scikit-learn` `Flask` `Machine Learning`
+</td>
+</tr>
 
 ---
+<tr>
+<td colspan="2" align="center">
+### 🔋 [**BatteryIQ**](https://github.com/loopcoded/BATTERYIQ)
+**AI-Powered Battery Recommendation System**
+
+- 🤖 **Smart AI recommendations** for any use case
+- ⚡ **Instant suggestions** with detailed specs
+- 📊 **Pros/cons analysis** for informed decisions
+- 🔍 **Natural language processing** for queries
+
+**Tech Stack:** `Python` `AI/ML` `Web Development` `NLP`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -198,3 +227,5 @@ const sejal = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 </div>
+
+
