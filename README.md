@@ -4,13 +4,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=800&color=FF6B9D&center=true&vCenter=true&multiline=true&width=1200&height=120&lines=%F0%9F%92%BB+class+WomanInTech+%7B;++constructor()%7B+this.name+%3D+'Sejal+Sinha'%3B+%7D;++code()%7B+return+'Building+tomorrow%2C+one+line+at+a+time'%3B+%7D;%7D+%2F%2F+She+codes%2C+she+conquers+%F0%9F%9A%80%E2%9C%A8" alt="Girl Coder Animation" />
-</div>
-<div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" alt="Girl Coding"/>
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Coding+dreams+into+reality;%F0%9F%92%AB+Turning+ideas+into+innovation;%F0%9F%8C%9F+She+believed+she+could%2C+so+she+coded" alt="Motivational Tech" />
 </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
