@@ -1,9 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sejal+Sinha+%F0%9F%91%8B;Full-Stack+Developer+%7C+Software+Engineer;Problem+Solver+%7C+Tech+Innovator;Building+Human-Centered+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</div>
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/> </div> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sejal+Sinha+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI%2FML+Engineer;Problem+Solver+%7C+Tech+Innovator;Building+Human-Centered+AI+Solutions+%F0%9F%9A%80;Turning+Complex+Problems+into+Simple+Solutions" alt="Typing SVG" /> </a> </div> <div align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250" alt="Coding Girl Animation"/> <br> <img src="https://komarev.com/ghpvc/?username=loopcoded&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" /> </div> <br> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 </div>
