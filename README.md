@@ -227,7 +227,7 @@ const sejal = {
     specialties: ["Healthcare AI", "Real-time Systems", "Human-Computer Interaction"],
     askMeAbout: ["AI-Powered Solutions", "Full-Stack Development", "Healthcare Tech"],
     currentProjects: ["Multi-modal AI Systems", "Edge Computing Solutions"],
-    funFact: " 🤖✨"
+    funFact: " 🤖My go-to way to relax is to build Rest APIs .Seriously, some people play games , I hit npm start✨"
 };
 ```
 
